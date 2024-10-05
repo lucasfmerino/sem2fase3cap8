@@ -8,7 +8,7 @@ import org.hibernate.annotations.FetchMode;
 import java.util.List;
 
 @Entity
-@Table(name = "TB_TRUCKS")
+@Table(name = "tb_trucks")
 @NoArgsConstructor
 @AllArgsConstructor
 @EqualsAndHashCode
